@@ -48,7 +48,7 @@ MTGD.m;
 objective_F.m;
 OnlineAlgorithm_gradient.m;
 Run.m
-} Run.m is the main code 
+} Run.m is the main code.
 
 Table 2 is produced by 
 {
@@ -57,7 +57,7 @@ MTGD.m;
 objective_F.m;
 OnlineAlgorithm_gradient.m;
 Run.m
-} Run.m is the main code 
+} Run.m is the main code.
 
 Table 3 is produced by 
 {
@@ -66,4 +66,4 @@ MPTGD.m;
 objective_F.m;
 OnlineAlgorithm_gradient.m;
 Run.m
-} Run.m is the main code 
+} Run.m is the main code.
