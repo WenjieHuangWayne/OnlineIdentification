@@ -12,7 +12,7 @@ MPTGD.m;
 MTGD.m;
 objective_F.m;
 OnlineAlgorithm_gradient.m;
-Run_generateData.m (main code)}
+Run_generateData.m}. Run_generateData.m is the main code.
 
 Figure 4 is produced by:
 {
@@ -22,8 +22,8 @@ MPTGD.m;
 MTGD.m;
 objective_F.m;
 OnlineAlgorithm_gradient.m;
-Run_generateData.m (main code)
-}
+Run_generateData.m
+}. Run_generateData.m is the main code.
 
 Figure 6 is produced by:
 {
@@ -34,8 +34,8 @@ MinimalSampleFinal.m (main code);
 MinimalSampleSequence.m (main code);
 objective_F.m;
 OnlineAlgorithm_gradient.m;
-Run_generateData_Confidence.m (main code)
-}
+Run_generateData_Confidence.m
+}. Run_generateData.m is the main code.
 
 Table 1 is produced by 
 {
@@ -47,8 +47,8 @@ MPTGD.m;
 MTGD.m;
 objective_F.m;
 OnlineAlgorithm_gradient.m;
-Run.m (main code)
-}
+Run.m
+} Run.m is the main code 
 
 Table 2 is produced by 
 {
@@ -56,8 +56,8 @@ Function_diff_F.m;
 MTGD.m;
 objective_F.m;
 OnlineAlgorithm_gradient.m;
-Run.m (main code)
-}
+Run.m
+} Run.m is the main code 
 
 Table 3 is produced by 
 {
@@ -65,5 +65,5 @@ Function_diff_F.m;
 MPTGD.m;
 objective_F.m;
 OnlineAlgorithm_gradient.m;
-Run.m (main code)
-}
+Run.m
+} Run.m is the main code 
